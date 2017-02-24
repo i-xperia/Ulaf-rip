@@ -14,13 +14,14 @@
 /*Slider UPD*/
 
 body {
-  .slider-date, .slider-description {
+  .slider-date,
+  .slider-description {
     color: #fff !important;
   }
 }
 
 .ares .tp-bullet {
-  background: rgba(229, 229, 229, 0.5) !important;
+  background: rgba(229, 229, 229, .5) !important;
   &.selected {
     background: #e21e22 !important;
   }
@@ -32,47 +33,56 @@ body {
 
 body {
   &.skin-blue {
-    .ares .tp-bullet.selected, .tp-caption .button.btn-md:hover {
+    .ares .tp-bullet.selected,
+    .tp-caption .button.btn-md:hover {
       color: #5268d8 !important;
     }
   }
   &.skin-blue-violet {
-    .ares .tp-bullet.selected, .tp-caption .button.btn-md:hover {
+    .ares .tp-bullet.selected,
+    .tp-caption .button.btn-md:hover {
       color: #8a2be2 !important;
     }
   }
   &.skin-choco {
-    .ares .tp-bullet.selected, .tp-caption .button.btn-md:hover {
+    .ares .tp-bullet.selected,
+    .tp-caption .button.btn-md:hover {
       color: #8f5902 !important;
     }
   }
   &.skin-gold {
-    .ares .tp-bullet.selected, .tp-caption .button.btn-md:hover {
+    .ares .tp-bullet.selected,
+    .tp-caption .button.btn-md:hover {
       color: #c9ae14 !important;
     }
   }
   &.skin-green {
-    .ares .tp-bullet.selected, .tp-caption .button.btn-md:hover {
+    .ares .tp-bullet.selected,
+    .tp-caption .button.btn-md:hover {
       color: #41c648 !important;
     }
   }
   &.skin-orange {
-    .ares .tp-bullet.selected, .tp-caption .button.btn-md:hover {
+    .ares .tp-bullet.selected,
+    .tp-caption .button.btn-md:hover {
       color: #ea7f04 !important;
     }
   }
   &.skin-sky-blue {
-    .ares .tp-bullet.selected, .tp-caption .button.btn-md:hover {
+    .ares .tp-bullet.selected,
+    .tp-caption .button.btn-md:hover {
       color: #729fcf !important;
     }
   }
   &.skin-turquose {
-    .ares .tp-bullet.selected, .tp-caption .button.btn-md:hover {
+    .ares .tp-bullet.selected,
+    .tp-caption .button.btn-md:hover {
       color: #00c9c2 !important;
     }
   }
   &.skin-violet-red {
-    .ares .tp-bullet.selected, .tp-caption .button.btn-md:hover {
+    .ares .tp-bullet.selected,
+    .tp-caption .button.btn-md:hover {
       color: #d02090 !important;
     }
   }
@@ -89,27 +99,33 @@ body {
 .stm-single-sp_player {
   .sp-template-photo {
     float: none;
+
     max-width: 100%;
   }
   .sp-section-content-photo {
     float: left;
+
     width: 25%;
   }
   .sp-section-content-details {
     float: left;
+
     width: 75%;
   }
   .sp-template.sp-template-player-details.sp-template-details {
     float: left;
+
     width: 49%;
   }
   .sp-section-content-excerpt:after {
-    content: '';
     display: block;
     clear: both;
+
+    content: '';
   }
   .stm_player_right_details {
     float: right;
+
     width: 49%;
   }
 }
@@ -121,8 +137,9 @@ body.single-sp_player .sp-post-content {
 /*29 sept 2016*/
 
 .stm-latest-results-units .stm-latest-results-info .stm-latest-result .stm-latest-result-team span {
-  color: #151515;
   text-decoration: none !important;
+
+  color: #151515;
 }
 
 .stm-no-decoration {

@@ -1,2 +1,111 @@
-!function(t){"use strict";function i(){var i=t(window).outerHeight(),n=t(".stm-footer").outerHeight(),e=i-n;t("#wrapper").css({"min-height":e+"px"}),t("body").css({"padding-bottom":n+"px"})}function n(){t(".stm-medias-unit").length&&"function"==typeof imagesLoaded&&t(".stm-medias-unit").imagesLoaded(function(){t(".stm-medias-unit").isotope({itemSelector:".stm-media-single-unit",layoutMode:"masonry"})}),t(".stm-media-tabs-nav a").on("shown.bs.tab",function(i){var n=t(this).attr("href");t(n+" .stm-medias-unit").isotope("layout")})}function e(){var i=t(".widget_nav_menu"),n=t(".widget_categories"),e=t(".widget_recent_entries");i.length&&i.each(function(){0==t(this).closest(".footer-widgets-wrapper").length&&(t(this).addClass("stm-widget-menu"),t(this).find("a").each(function(){t(this).html("<span>"+t(this).text()+"</span>")}))}),n.length&&n.each(function(){t(this).find("a").each(function(){t(this).html("<span>"+t(this).text()+"</span>")})}),e.length&&e.each(function(){t(this).find(".post-date").length||t(this).addClass("no-date")})}function s(){var i=t(window).outerWidth(),n=t(".stm-fullwidth-row-js").find(".container").width(),e=(i-n)/2;t(".stm-fullwidth-row-js").css({"margin-left":-e+"px","margin-right":-e+"px"})}t(document).ready(function(){i(),s(),e(),n()}),t(window).load(function(){i(),s()}),t(window).resize(function(){i(),s()})}(jQuery);
-//# sourceMappingURL=maps/splash.js.map
+(function($) {
+  "use strict";
+
+  /*Ready DOM scripts*/
+  $(document).ready(function() {
+    stm_sticky_footer();
+
+    stmFullwidthRowJs();
+
+    default_widgets_scripts();
+
+    stm_sort_media();
+
+  });
+
+  /*Window load scripts*/
+
+  $(window).load(function() {
+    stm_sticky_footer();
+
+    stmFullwidthRowJs();
+  });
+
+  /*Window resize scripts*/
+  $(window).resize(function() {
+    stm_sticky_footer();
+
+    stmFullwidthRowJs();
+  });
+
+
+  /*CUSTOM FUNCTIONS*/
+  /*Sticky footer*/
+  function stm_sticky_footer() {
+    var winH = $(window).outerHeight();
+    var footerH = $('.stm-footer').outerHeight();
+    var siteMinHeight = winH - footerH;
+
+    $('#wrapper').css({
+      'min-height': siteMinHeight + 'px'
+    });
+
+    $('body').css({
+      'padding-bottom': footerH + 'px'
+    });
+
+  }
+
+  function stm_sort_media() {
+    // init Isotope
+    if ($('.stm-medias-unit').length) {
+      if (typeof imagesLoaded == 'function') {
+        $('.stm-medias-unit').imagesLoaded(function() {
+          $('.stm-medias-unit').isotope({
+            itemSelector: '.stm-media-single-unit',
+            layoutMode: 'masonry'
+          });
+        });
+      }
+    }
+
+    $('.stm-media-tabs-nav a').on('shown.bs.tab', function(e) {
+      var tabId = $(this).attr('href');
+      $(tabId + ' .stm-medias-unit').isotope('layout');
+    })
+  }
+
+  function default_widgets_scripts() {
+    var stm_menu_widget = $('.widget_nav_menu');
+    var stm_categories_widget = $('.widget_categories');
+    var stm_recent_entries = $('.widget_recent_entries');
+
+    if (stm_menu_widget.length) {
+      stm_menu_widget.each(function() {
+        if ($(this).closest('.footer-widgets-wrapper').length == 0) {
+          $(this).addClass('stm-widget-menu');
+          $(this).find('a').each(function() {
+            $(this).html('<span>' + $(this).text() + '</span>');
+          });
+        }
+      });
+    }
+
+    if (stm_categories_widget.length) {
+      stm_categories_widget.each(function() {
+        $(this).find('a').each(function() {
+          $(this).html('<span>' + $(this).text() + '</span>');
+        });
+      });
+    }
+
+    if (stm_recent_entries.length) {
+      stm_recent_entries.each(function() {
+        if (!$(this).find('.post-date').length) {
+          $(this).addClass('no-date');
+        }
+      });
+    }
+  }
+
+  function stmFullwidthRowJs() {
+    var winW = $(window).outerWidth();
+    var contW = $('.stm-fullwidth-row-js').find('.container').width();
+    var contMargins = (winW - contW) / 2;
+    $('.stm-fullwidth-row-js').css({
+      'margin-left': -contMargins + 'px',
+      'margin-right': -contMargins + 'px'
+    })
+  }
+
+})(jQuery);
