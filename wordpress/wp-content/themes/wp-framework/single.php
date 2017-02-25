@@ -1,3 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title></title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="msapplication-TileImage" content="http://www.ifaf.info/wp-content/uploads/2016/10/cropped-IFAF-LOGO-512-1-270x270.png">
+  <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.ifaf.info/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
+  <!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.ifaf.info/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
+  <link rel="icon" href="http://www.ifaf.info/wp-content/uploads/2016/10/cropped-IFAF-LOGO-512-1-32x32.png" sizes="32x32">
+  <link rel="icon" href="http://www.ifaf.info/wp-content/uploads/2016/10/cropped-IFAF-LOGO-512-1-192x192.png" sizes="192x192">
+  <link rel="apple-touch-icon-precomposed" href="http://www.ifaf.info/wp-content/uploads/2016/10/cropped-IFAF-LOGO-512-1-180x180.png">
+  <link rel="stylesheet" href="css/main.css" type="text/css" media="all">
+</head>
+
+<body class="post-template-default single single-post postid-3147 single-format-standard stm-shop-sidebar wpb-js-composer js-comp-ver-4.12.1 vc_responsive" data-gr-c-s-loaded="true" style="padding-bottom: 405px;">
+  <div id="wrapper" style="min-height: 462px;">
+    <div id="stm-top-bar">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-sm-6">
+            <div class="stm-top-ticker-holder">
+              <div class="heading-font stm-ticker-title"><span class="stm-red">Latest</span> news</div>
+              <ol class="stm-ticker ticker-active">
+                <li style="display: block;">The IFAF Beach Football World Championship from 2nd to 5th November |</li>
+                <li style="display: none;">ARISF President Raffaele Chiulli meets with IOC President Thomas Bach</li>
+                <li style="display: none;">The IFAF Annual General Meeting on September 23rd 2017</li>
+                <li style="display: none;">The Official Logo of the Beach Football World Championship Revealed</li>
+                <li style="display: none;">IFAF Took Part in WADA’s Webinar</li>
+              </ol>
+            </div>
+          </div>
+          <div class="col-md-6 col-sm-6">
+            <div class="clearfix">
+              <div class="stm-top-bar_right">
+                <div class="clearfix">
+                  <div class="stm-top-switcher-holder">
+                  </div>
+                  <div class="stm-top-cart-holder">
+                  </div>
+                </div>
+              </div>
+              <div class="stm-top-socials-holder">
+                <ul class="top-bar-socials stm-list-duty">
+                  <li>
+                    <a href="https://www.facebook.com/InternationalFederationofAmericanFootball/" target="_blank">
+                      <i class="fa fa-facebook"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://twitter.com/ifafofficial" target="_blank">
+                      <i class="fa fa-twitter"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://www.instagram.com/ifafofficial/" target="_blank">
+                      <i class="fa fa-instagram"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://www.linkedin.com/company/international-federation-of-american-football-ifaf" target="_blank">
+                      <i class="fa fa-linkedin"></i>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="stm-header stm-non-transparent-header stm-header-fixed-mode stm-header-fixed stm-header-fixed-intermediate" style="min-height: 230px;">
+      <div class="stm-header-inner">
+        <div class="stm-header-background" style="background-image: url(&#39;http://www.ifaf.info/wp-content/uploads/2016/10/header-about-us.jpg&#39;)"></div>
+        <div class="container stm-header-container">
+          <!--Logo-->
+          <div class="logo-main" style="margin-top: 0px;margin-right: 9px;">
+            <a class="bloglogo" href="http://www.ifaf.info/">
+              <img src="img/IFAF-LOGO-160.png" style="width: px;" title="Home" alt="Logo">
+            </a>
+          </div>
+          <div class="stm-main-menu">
+            <div class="stm-main-menu-unit " style="margin-top: 30px;">
+              <ul class="header-menu stm-list-duty heading-font clearfix">
+                <li id="menu-item-2679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-2679"><a href="http://www.ifaf.info/"><span>Home</span></a></li>
+                <li id="menu-item-2680" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-2680"><a href="http://www.ifaf.info/news/"><span>News</span></a></li>
+                <li id="menu-item-2682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2682"><a href="http://www.ifaf.info/ifaf/ifaf-annual-general-meeting-september-23rd-2017/#"><span>About</span></a>
+                  <ul class="sub-menu">
+                    <li id="menu-item-2683" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2683"><a href="http://www.ifaf.info/ifaf-who-we-are/"><span>IFAF | Who we are</span></a></li>
+                    <li id="menu-item-2765" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2765"><a href="http://www.ifaf.info/ifaf-history/"><span>IFAF | History</span></a></li>
+                    <li id="menu-item-2687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2687"><a href="http://www.ifaf.info/ifaf-structure/"><span>IFAF | Structure</span></a></li>
+                  </ul>
+                </li>
+                <li id="menu-item-2987" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2987"><a href="http://www.ifaf.info/federations/"><span>Federations</span></a></li>
+                <li id="menu-item-2967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2967"><a href="http://www.ifaf.info/competitions/"><span>Competitions</span></a></li>
+                <li id="menu-item-3091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3091"><a href="http://www.ifaf.info/ifaf/ifaf-annual-general-meeting-september-23rd-2017/#"><span>Anti-Doping</span></a>
+                  <ul class="sub-menu">
+                    <li id="menu-item-3094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3094"><a href="http://www.ifaf.info/prohibited-lists-therapeutic-use-exemption-tue/"><span>Prohibited Lists &amp; TUE</span></a></li>
+                    <li id="menu-item-3093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3093"><a href="http://www.ifaf.info/anti-doping-information-education-materials/"><span>Information &amp; Education</span></a></li>
+                    <li id="menu-item-3092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3092"><a href="http://www.ifaf.info/rules-and-regulations/"><span>Regulations</span></a></li>
+                  </ul>
+                </li>
+                <li id="menu-item-2702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2702"><a href="http://www.ifaf.info/documents/"><span>Documents</span></a></li>
+                <li id="menu-item-2917" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2917"><a href="http://www.ifaf.info/ifaf/ifaf-annual-general-meeting-september-23rd-2017/#"><span>ITC</span></a>
+                  <ul class="sub-menu">
+                    <li id="menu-item-3130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3130"><a href="http://www.ifaf.info/itc-2017/"><span>ITC | 2017</span></a></li>
+                    <li id="menu-item-2918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2918"><a href="http://www.ifaf.info/itc-2016/"><span>ITC | 2016</span></a></li>
+                    <li id="menu-item-2925" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2925"><a href="http://www.ifaf.info/itc-regulations-forms/"><span>ITC | Regulations</span></a></li>
+                  </ul>
+                </li>
+                <li id="menu-item-2681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2681"><a href="http://www.ifaf.info/contact-us/"><span>Contact</span></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--MOBILE HEADER-->
+      <div class="stm-header-mobile clearfix">
+        <div class="logo-main" style="margin-top: 0px;">
+          <a class="bloglogo" href="http://www.ifaf.info/">
+            <img src="img/IFAF-LOGO-160.png" style="width: px;" title="Home" alt="Logo">
+          </a>
+        </div>
+        <div class="stm-mobile-right">
+          <div class="clearfix">
+            <div class="stm-menu-toggle">
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+          </div>
+        </div>
+        <div class="stm-mobile-menu-unit">
+          <div class="inner">
+            <div class="stm-top clearfix">
+              <div class="stm-switcher pull-left">
+              </div>
+              <div class="stm-top-right">
+                <div class="clearfix">
+                  <div class="stm-top-search">
+                  </div>
+                  <div class="stm-top-socials">
+                    <ul class="top-bar-socials stm-list-duty">
+                      <li>
+                        <a href="https://www.facebook.com/InternationalFederationofAmericanFootball/" target="_blank">
+                          <i class="fa fa-facebook"></i>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="https://twitter.com/ifafofficial" target="_blank">
+                          <i class="fa fa-twitter"></i>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="https://www.instagram.com/ifafofficial/" target="_blank">
+                          <i class="fa fa-instagram"></i>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="https://www.linkedin.com/company/international-federation-of-american-football-ifaf" target="_blank">
+                          <i class="fa fa-linkedin"></i>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <ul class="stm-mobile-menu-list heading-font">
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-2679"><a href="http://www.ifaf.info/"><span>Home</span></a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-2680"><a href="http://www.ifaf.info/news/"><span>News</span></a></li>
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2682"><a href="http://www.ifaf.info/ifaf/ifaf-annual-general-meeting-september-23rd-2017/#"><span>About</span></a>
+                <ul class="sub-menu">
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2683"><a href="http://www.ifaf.info/ifaf-who-we-are/"><span>IFAF | Who we are</span></a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2765"><a href="http://www.ifaf.info/ifaf-history/"><span>IFAF | History</span></a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2687"><a href="http://www.ifaf.info/ifaf-structure/"><span>IFAF | Structure</span></a></li>
+                </ul>
+              </li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2987"><a href="http://www.ifaf.info/federations/"><span>Federations</span></a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2967"><a href="http://www.ifaf.info/competitions/"><span>Competitions</span></a></li>
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3091"><a href="http://www.ifaf.info/ifaf/ifaf-annual-general-meeting-september-23rd-2017/#"><span>Anti-Doping</span></a>
+                <ul class="sub-menu">
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3094"><a href="http://www.ifaf.info/prohibited-lists-therapeutic-use-exemption-tue/"><span>Prohibited Lists &amp; TUE</span></a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3093"><a href="http://www.ifaf.info/anti-doping-information-education-materials/"><span>Information &amp; Education</span></a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3092"><a href="http://www.ifaf.info/rules-and-regulations/"><span>Regulations</span></a></li>
+                </ul>
+              </li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2702"><a href="http://www.ifaf.info/documents/"><span>Documents</span></a></li>
+              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2917"><a href="http://www.ifaf.info/ifaf/ifaf-annual-general-meeting-september-23rd-2017/#"><span>ITC</span></a>
+                <ul class="sub-menu">
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3130"><a href="http://www.ifaf.info/itc-2017/"><span>ITC | 2017</span></a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2918"><a href="http://www.ifaf.info/itc-2016/"><span>ITC | 2016</span></a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2925"><a href="http://www.ifaf.info/itc-regulations-forms/"><span>ITC | Regulations</span></a></li>
+                </ul>
+              </li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2681"><a href="http://www.ifaf.info/contact-us/"><span>Contact</span></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="main">
+      <!--SINGLE POST-->
+      <div id="post-3147" class="post-3147 post type-post status-publish format-standard has-post-thumbnail hentry category-ifaf tag-general-meeting tag-ifaf">
+        <div class="stm-single-post stm-default-page">
+          <div class="container">
+            <div class="row stm-format-">
+              <div class="col-md-9 col-md-push-3 col-sm-12">
+                <div class="sidebar-margin-top clearfix"></div>
+                <div class="stm-small-title-box">
+                  <div class="stm-title-box-unit ">
+                    <div class="stm-page-title">
+                      <div class="container">
+                        <div class="clearfix stm-title-box-title-wrapper">
+                          <h3>The IFAF Annual General Meeting on September 23rd 2017</h3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!--Post thumbnail-->
+                <div class="post-thumbnail">
+                  <img width="900" height="500" src="img/ifaf-news.jpg" class="img-responsive wp-post-image" alt="" srcset="http://www.ifaf.info/wp-content/uploads/2016/10/ifaf-news.jpg 900w, http://www.ifaf.info/wp-content/uploads/2016/10/ifaf-news-300x167.jpg 300w, http://www.ifaf.info/wp-content/uploads/2016/10/ifaf-news-128x71.jpg 128w, http://www.ifaf.info/wp-content/uploads/2016/10/ifaf-news-32x18.jpg 32w, http://www.ifaf.info/wp-content/uploads/2016/10/ifaf-news-100x56.jpg 100w, http://www.ifaf.info/wp-content/uploads/2016/10/ifaf-news-570x317.jpg 570w, http://www.ifaf.info/wp-content/uploads/2016/10/ifaf-news-440x244.jpg 440w" sizes="(max-width: 900px) 100vw, 900px"> </div>
+                <div class="stm-single-post-meta clearfix heading-font">
+                  <div class="stm-meta-left-part">
+                    <div class="stm-date">
+                      <i class="fa fa-calendar-o"></i> January 14, 2017 </div>
+                    <div class="stm-author">
+                      <i class="fa fa-user"></i> Ifaf.info </div>
+                  </div>
+                  <div class="stm-comments-num">
+                    <a href="http://www.ifaf.info/ifaf/ifaf-annual-general-meeting-september-23rd-2017/#respond" class="stm-post-comments">
+                      <i class="fa fa-commenting"></i> No Comments </a>
+                  </div>
+                </div>
+                <div class="post-content">
+                  <p>The IFAF Annual General Meeting will be held on 23rd of September 2017 and it will take place in the capital of France, Paris. The invitation was made by the IFAF Secretary in accordance with the IFAF statutes.</p>
+                  <p>All IFAF members are informed about the date and venue for the General Meeting by notice in writing by email at least four months before the General Meeting, pursuant to regulations.</p>
+                  <p>Motions for the agenda must be submitted to the Secretary in writing by mail or e-mail not later than three months before the General Meeting and accompanied by a brief background statement by the proposer explaining the reason for the proposed intended effect of the Motion.</p>
+                  <p>The Secretary shall communicate the final agenda and motions on notice for the General Meeting by sending an email at least two months before the General Meeting to notify all Members of the internet address of an internet website where the said agenda and motions have been posted.</p>
+                  <div class="clearfix"></div>
+                </div>
+                <div class="stm-post-meta-bottom heading-font clearfix">
+                  <div class="stm_post_tags">
+                    <i class="fa fa-tag"></i><a href="http://www.ifaf.info/tag/general-meeting/" rel="tag">General Meeting</a>,<a href="http://www.ifaf.info/tag/ifaf/" rel="tag">IFAF</a> </div>
+
+                </div>
+                <!--Comments-->
+                <div class="stm_post_comments">
+                  <div id="comments" class="comments-area">
+                    <div id="respond" class="comment-respond">
+                      <h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="http://www.ifaf.info/ifaf/ifaf-annual-general-meeting-september-23rd-2017/#respond" style="display:none;">Cancel reply</a></small></h3>
+                      <form action="http://www.ifaf.info/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate="">
+                        <div class="form-group comment-form-comment">
+                          <textarea placeholder="Message *" name="comment" rows="9" aria-required="true"></textarea>
+                          <grammarly-btn>
+                            <div style="visibility: hidden; z-index: 2;" class="_e725ae-textarea_btn _e725ae-not_focused" data-grammarly-reactid=".0">
+                              <div class="_e725ae-transform_wrap" data-grammarly-reactid=".0.0">
+                                <div title="Protected by Grammarly" class="_e725ae-status" data-grammarly-reactid=".0.0.0">&nbsp;</div>
+                              </div>
+                            </div>
+                          </grammarly-btn>
+                        </div>
+                        <div class="row stm-row-comments">
+                          <div class="col-md-4 col-sm-4 col-xs-12">
+                            <div class="form-group comment-form-author">
+                              <input placeholder="Name *" name="author" type="text" value="" size="30" aria-required="true">
+                            </div>
+                          </div>
+                          <div class="col-md-4 col-sm-4 col-xs-12">
+                            <div class="form-group comment-form-email">
+                              <input placeholder="E-mail *" name="email" type="email" value="" size="30" aria-required="true">
+                            </div>
+                          </div>
+                          <div class="col-md-4 col-sm-4 col-xs-12">
+                            <div class="form-group comment-form-url">
+                              <input placeholder="Website" name="url" type="text" value="" size="30">
+                            </div>
+                          </div>
+                        </div>
+                        <p class="form-submit">
+                          <input name="submit" type="submit" id="submit" class="submit" value="Post Comment">
+                          <input type="hidden" name="comment_post_ID" value="3147" id="comment_post_ID">
+                          <input type="hidden" name="comment_parent" id="comment_parent" value="0">
+                        </p>
+                        <p style="display: none;">
+                          <input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="2ab2b1a08d">
+                        </p>
+                        <p style="display: none;"></p>
+                        <input type="hidden" id="ak_js" name="ak_js" value="1487979558400">
+                      </form>
+                    </div>
+                    <!-- #respond -->
+                  </div>
+                </div>
+              </div>
+              <!--Sidebar-->
+              <div class="col-md-3 col-md-pull-9 hidden-sm hidden-xs">
+                <aside id="categories-2" class="widget widget-default widget_categories">
+                  <ul>
+                    <li class="cat-item cat-item-155"><a href="http://www.ifaf.info/category/federations/africa/"><span>Africa</span></a>
+                    </li>
+                    <li class="cat-item cat-item-156"><a href="http://www.ifaf.info/category/federations/americas/"><span>Americas</span></a>
+                    </li>
+                    <li class="cat-item cat-item-157"><a href="http://www.ifaf.info/category/federations/asia/"><span>Asia</span></a>
+                    </li>
+                    <li class="cat-item cat-item-154"><a href="http://www.ifaf.info/category/competitions/"><span>Competitions</span></a>
+                    </li>
+                    <li class="cat-item cat-item-158"><a href="http://www.ifaf.info/category/federations/europe/"><span>Europe</span></a>
+                    </li>
+                    <li class="cat-item cat-item-153"><a href="http://www.ifaf.info/category/federations/"><span>Federations</span></a>
+                    </li>
+                    <li class="cat-item cat-item-152"><a href="http://www.ifaf.info/category/ifaf/"><span>Ifaf</span></a>
+                    </li>
+                    <li class="cat-item cat-item-159"><a href="http://www.ifaf.info/category/federations/oceania/"><span>Oceania</span></a>
+                    </li>
+                    <li class="cat-item cat-item-75"><a href="http://www.ifaf.info/category/other/"><span>Other</span></a>
+                    </li>
+                  </ul>
+                </aside>
+
+                <aside id="stm_recent_posts-2" class="widget widget-default widget_stm_recent_posts">
+                  <div class="widget-title">
+                    <h4>Latest news</h4></div>
+                  <div class="widget_media clearfix">
+                    <a href="http://www.ifaf.info/competitions/official-logo-beach-football-world-championship/">
+                      <div class="image">
+                        <img width="150" height="150" src="img/2017-beach-football-world-championship-logo-150x150.jpg" class="img-responsive wp-post-image" alt="beach football world championship" srcset="http://www.ifaf.info/wp-content/uploads/2017/02/2017-beach-football-world-championship-logo-150x150.jpg 150w, http://www.ifaf.info/wp-content/uploads/2017/02/2017-beach-football-world-championship-logo-200x200.jpg 200w" sizes="(max-width: 150px) 100vw, 150px"> </div>
+                      <div class="stm-post-content">
+                        <div class="date heading-font">
+                          February 18, 2017 </div>
+                        <span class="h5">The Official Logo of the Beach Football World Championship Revealed</span>
+                      </div>
+                    </a>
+                  </div>
+                  <div class="clearfix"></div>
+                  <div class="widget_media clearfix">
+                    <a href="http://www.ifaf.info/ifaf/ifaf-took-part-wadas-webinar/">
+                      <div class="image">
+                        <img width="150" height="150" src="img/wada-play-true1-150x150.jpg" class="img-responsive wp-post-image" alt="Webinar" srcset="http://www.ifaf.info/wp-content/uploads/2017/02/wada-play-true1-150x150.jpg 150w, http://www.ifaf.info/wp-content/uploads/2017/02/wada-play-true1-200x200.jpg 200w" sizes="(max-width: 150px) 100vw, 150px"> </div>
+                      <div class="stm-post-content">
+                        <div class="date heading-font">
+                          February 1, 2017 </div>
+                        <span class="h5">IFAF Took Part in WADA’s Webinar</span>
+                      </div>
+                    </a>
+                  </div>
+                  <div class="clearfix"></div>
+                  <div class="widget_media clearfix">
+                    <a href="http://www.ifaf.info/ifaf/2017-ifaf-beach-football-world-championship/">
+                      <div class="image">
+                        <img width="150" height="150" src="img/AlbahriFahadAsianBeachGamesDay1MVu_O23c-Krl-150x150.jpg" class="img-responsive wp-post-image" alt="IFAF Beach Football World Championship" srcset="http://www.ifaf.info/wp-content/uploads/2017/01/AlbahriFahadAsianBeachGamesDay1MVu_O23c-Krl-150x150.jpg 150w, http://www.ifaf.info/wp-content/uploads/2017/01/AlbahriFahadAsianBeachGamesDay1MVu_O23c-Krl-200x200.jpg 200w" sizes="(max-width: 150px) 100vw, 150px"> </div>
+                      <div class="stm-post-content">
+                        <div class="date heading-font">
+                          January 27, 2017 </div>
+                        <span class="h5">The IFAF Beach Football World Championship from 2nd to 5th November 2017</span>
+                      </div>
+                    </a>
+                  </div>
+                  <div class="clearfix"></div>
+                </aside>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--main-->
+  </div>
+  <!--wrapper-->
+  <div class="stm-footer">
+    <div id="stm-footer-top">
+      <div id="footer-main">
+        <div class="footer-widgets-wrapper less_4">
+          <div class="container">
+            <div class="widgets stm-cols-4 clearfix">
+              <aside id="text-2" class="widget widget_text">
+                <div class="widget-wrapper">
+                  <div class="widget-title">
+                    <h6>About Us</h6></div>
+                  <div class="textwidget">
+                    <div class="stm-text-lighten">IFAF is composed of 103 members nations on six continents (North and South America, Europe, Asia, Africa and Oceania), all of which possess national federations dedicated solely to American football.</div>
+                  </div>
+                </div>
+              </aside>
+              <aside id="recent-posts-3" class="widget widget_recent_entries">
+                <div class="widget-wrapper">
+                  <div class="widget-title">
+                    <h6>Recent news</h6></div>
+                  <ul>
+                    <li>
+                      <a href="http://www.ifaf.info/competitions/official-logo-beach-football-world-championship/">The Official Logo of the Beach Football World Championship Revealed</a>
+                      <span class="post-date">February 18, 2017</span>
+                    </li>
+                    <li>
+                      <a href="http://www.ifaf.info/ifaf/ifaf-took-part-wadas-webinar/">IFAF Took Part in WADA’s Webinar</a>
+                      <span class="post-date">February 1, 2017</span>
+                    </li>
+                  </ul>
+                </div>
+              </aside>
+              <aside id="nav_menu-2" class="widget widget_nav_menu">
+                <div class="widget-wrapper">
+                  <div class="widget-title">
+                    <h6>Links</h6></div>
+                  <div class="menu-widget-menu-container">
+                    <ul id="menu-widget-menu" class="menu">
+                      <li id="menu-item-2703" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-2703"><a href="http://www.ifaf.info/">Home</a></li>
+                      <li id="menu-item-2710" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-2710"><a href="http://www.ifaf.info/news/">News</a></li>
+                      <li id="menu-item-2707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2707"><a href="http://www.ifaf.info/federations/">Federations</a></li>
+                      <li id="menu-item-2704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2704"><a href="http://www.ifaf.info/competitions/">Competitions</a></li>
+                      <li id="menu-item-2709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2709"><a href="http://www.ifaf.info/media/">Media</a></li>
+                      <li id="menu-item-2706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2706"><a href="http://www.ifaf.info/documents/">Documents</a></li>
+                      <li id="menu-item-2708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2708"><a href="http://www.ifaf.info/ifaf-who-we-are/">About Us</a></li>
+                      <li id="menu-item-2705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2705"><a href="http://www.ifaf.info/contact-us/">Contact Us</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </aside>
+              <aside id="contacts-2" class="widget widget_contacts">
+                <div class="widget-wrapper">
+                  <div class="widget-title">
+                    <h6>Contact</h6></div>
+                  <ul class="stm-list-duty heading-font">
+                    <li class="widget_contacts_address">
+                      <div class="icon"><i class="fa fa-map-marker"></i></div>
+                      <div class="text">France, 79 Rateau Street, 93120 La Courneuve.</div>
+                    </li>
+                    <li class="widget_contacts_phone">
+                      <div class="icon"><i class="fa fa-phone"></i></div>
+                      <div class="text">+33 (0) 1 43 11 14 70</div>
+                    </li>
+                    <li>
+                      <div class="icon"><i class="fa fa-fax"></i></div>
+                      <div class="text">+33 (0) 1 43 11 14 71</div>
+                    </li>
+                    <li class="widget_contacts_mail">
+                      <div class="icon"><i class="fa fa-envelope"></i></div>
+                      <div class="text"><a href="mailto:info@ifaf.info">info@ifaf.info</a></div>
+                    </li>
+                  </ul>
+                </div>
+              </aside>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="stm-footer-bottom">
+      <div class="container">
+        <div class="clearfix">
+          <div class="footer-bottom-left">
+            <div class="footer-bottom-left-text">
+              © 2016-17 Ifaf.info - All rights reserved. </div>
+          </div>
+          <div class="footer-bottom-right">
+            <div class="clearfix">
+              <div class="footer-bottom-right-text">
+                International Federation of American Football </div>
+              <div class="footer-socials-unit">
+                <div class="h6 footer-socials-title">
+                  Follow Us: </div>
+                <ul class="footer-bottom-socials stm-list-duty">
+                  <li class="stm-social-facebook">
+                    <a href="https://www.facebook.com/InternationalFederationofAmericanFootball/" target="_blank">
+                      <i class="fa fa-facebook"></i>
+                    </a>
+                  </li>
+                  <li class="stm-social-twitter">
+                    <a href="https://twitter.com/ifafofficial" target="_blank">
+                      <i class="fa fa-twitter"></i>
+                    </a>
+                  </li>
+                  <li class="stm-social-instagram">
+                    <a href="https://www.instagram.com/ifafofficial/" target="_blank">
+                      <i class="fa fa-instagram"></i>
+                    </a>
+                  </li>
+                  <li class="stm-social-linkedin">
+                    <a href="https://www.linkedin.com/company/international-federation-of-american-football-ifaf" target="_blank">
+                      <i class="fa fa-linkedin"></i>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+  <script type="text/javascript" src="js/jquery-migrate.js"></script>
+  <script type="text/javascript" src="js/jquery_form.js"></script>
+  <script type="text/javascript" src="js/bootstrap.js"></script>
+  <script type="text/javascript" src="js/owl.js"></script>
+  <script type="text/javascript" src="js/imagesloaded.js"></script>
+  <script type="text/javascript" src="js/isotope.js"></script>
+  <script type="text/javascript" src="js/select2.js"></script>
+  <script type="text/javascript" src="js/splash.js"></script>
+  <script type="text/javascript" src="js/header.js"></script>
+  <script type="text/javascript" src="js/smoothScroll.js"></script>
+  <script type="text/javascript" src="js/ticker.js"></script>
+  <script type="text/javascript" src="js/skrollr.js"></script>
+</body>
+
+</html>
+
 <?php get_header(); ?>
   <?php if (have_posts()): while (have_posts()) : the_post(); ?>
     <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
