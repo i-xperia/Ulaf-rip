@@ -1,0 +1,97 @@
+old header
+
+<!-- wrapper -->
+<div class="wrapper">
+  <header role="banner">
+    <div class="inner">
+      <div class="logo-main">
+        <?php if ( is_front_page() && is_home() ){ } else { ?>
+          <a href="<?php echo home_url(); ?>">
+            <?php  } ?>
+            <img src="<?php echo get_template_directory_uri(); ?>/img/IFAF-LOGO-160.png" alt="<?php wp_title( '' ); ?>" title="<?php wp_title( '' ); ?>" class="logo-img">
+            <?php if ( is_front_page() && is_home() ){
+            } else { ?>
+          </a>
+        <?php } ?>
+      </div><!-- /logo -->
+
+      <nav class="header-menu" role="navigation">
+        <?php wpeHeadNav(); ?>
+      </nav><!-- /nav -->
+
+    </div><!-- /.inner -->
+  </header><!-- /header -->
+
+  <section role="main">
+    <div class="inner">
+
+
+
+
+ця вкладка, я сюда збираю просто хлам, хуки які не використав ще, але які можуть знадобитись пізніше
+
+
+
+
+
+old footer
+
+
+    </div><!-- /.inner -->
+  </section><!-- /section -->
+
+</div><!-- /wrapper -->
+
+<footer role="contentinfo">
+  <div class="inner">
+
+    <p class="copyright">
+      &copy; <?php echo date("Y"); ?> Собственность <?php bloginfo('name'); ?>.
+    </p><!-- /copyright -->
+
+  </div><!-- /.inner -->
+</footer><!-- /footer -->
+
+    <?php wp_footer(); ?>
+
+</body>
+</html>
+
+
+
+олд сінгл
+
+  <?php if (have_posts()): while (have_posts()) : the_post(); ?>
+
+
+    <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+
+      <h1 class="single-title inner-title"><?php the_title(); ?></h1>
+      <?php if ( has_post_thumbnail()) :?>
+        <a class="single-thumb" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
+          <?php the_post_thumbnail(); // Fullsize image for the single post ?>
+        </a>
+      <?php endif; ?><!-- /post thumbnail -->
+
+      <span class="date"><?php the_time('d F Y'); ?> <?php the_time('H:i'); ?></span>
+      <span class="author"><?php _e( 'Published by', 'wpeasy' ); ?> <?php the_author_posts_link(); ?></span>
+      <span class="comments"><?php comments_popup_link( __( 'Leave your thoughts', 'wpeasy' ), __( '1 Comment', 'wpeasy' ), __( '% Comments', 'wpeasy' )); ?></span><!-- /post details -->
+
+      <?php the_content(); ?>
+
+      <?php the_tags( __( 'Tags: ', 'wpeasy' ), ', ', '<br>'); // Separated by commas with a line break at the end ?>
+
+      <p><?php _e( 'Categorised in: ', 'wpeasy' ); the_category(', '); // Separated by commas ?></p>
+
+      <p><?php _e( 'This post was written by ', 'wpeasy' ); the_author(); ?></p>
+
+      <?php edit_post_link(); ?>
+
+      <?php comments_template(); ?>
+
+    </article>
+  <?php endwhile; endif; ?>
+
+
+
+<?php get_sidebar(); ?>
