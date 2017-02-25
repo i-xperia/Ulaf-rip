@@ -30,7 +30,15 @@
       $stm_header.css('min-height', headerH + 'px');
     }
   }
-
+ // owlCarousel//////////////////////
+  (function() {
+  $(".sliders").owlCarousel({
+    loop: true,
+    nav: true,
+    items: 1
+    });
+  }());
+  ////////////////////////////////////
   function stm_header_transparent() {
     /*HEADER TRANSPARENT FIXED*/
     if ($stm_header.hasClass('stm-transparent-header') && $stm_header.hasClass('stm-header-fixed-mode')) {
