@@ -34,7 +34,7 @@
   (function() {
   $(".sliders").owlCarousel({
     loop: true,
-    nav: true,
+
     items: 1
     });
   }());
