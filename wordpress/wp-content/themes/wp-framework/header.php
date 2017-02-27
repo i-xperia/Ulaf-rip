@@ -94,8 +94,8 @@
         <div class="container stm-header-container">
           <!--Logo-->
           <div class="logo-main" style="margin-top: 0px;margin-right: 9px;">
-            <a class="bloglogo" href="http://www.ifaf.info/">
-              <img src="img/IFAF-LOGO-160.png" style="width: px;" title="Home" alt="Logo">
+            <a class="bloglogo" href="">
+              <img src="<?php echo get_template_directory_uri(); ?>/img/IFAF-LOGO-160.png"  title="Home" alt="Logo">
             </a>
           </div>
           <div class="stm-main-menu">

@@ -37,13 +37,13 @@
                 <div class="stm-single-post-meta clearfix heading-font">
                   <div class="stm-meta-left-part">
                     <div class="stm-date">
-                      <i class="fa fa-calendar-o"></i><?php the_time('d F Y'); ?> January 14, 2017 </div>
+                      <i class="fa fa-calendar-o"></i><?php the_time('d F Y'); ?></div>
                     <div class="stm-author">
-                      <i class="fa fa-user"></i> Ifaf.info </div>
+                      <i class="fa fa-user"></i><?php the_author(); ?></div>
                   </div>
                   <div class="stm-comments-num">
                     <a href="http://www.ifaf.info/ifaf/ifaf-annual-general-meeting-september-23rd-2017/#respond" class="stm-post-comments">
-                      <i class="fa fa-commenting"></i> No Comments </a>
+                      <i class="fa fa-commenting"></i><?php comments_number(); ?></a>
                   </div>
                 </div>
                 <div class="post-content">
@@ -52,8 +52,7 @@
                 </div>
                 <div class="stm-post-meta-bottom heading-font clearfix">
                   <div class="stm_post_tags">
-                    <i class="fa fa-tag"></i><a href="http://www.ifaf.info/tag/general-meeting/" rel="tag">General Meeting</a>,<a href="http://www.ifaf.info/tag/ifaf/" rel="tag">IFAF</a> </div>
-
+                    <?php the_tags(' <i class="fa fa-tag"></i>') ?></div>
                 </div>
       <?php comments_template(); ?>
               </div>
@@ -143,6 +142,7 @@
     <!--main-->
   </div>
   <!--wrapper-->
+
 
 
 

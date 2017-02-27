@@ -123,18 +123,18 @@
   </div>
 
   <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
-  <script type="text/javascript" src="js/jquery-migrate.js"></script>
-  <script type="text/javascript" src="js/jquery_form.js"></script>
-  <script type="text/javascript" src="js/bootstrap.js"></script>
-  <script type="text/javascript" src="js/owl.js"></script>
-  <script type="text/javascript" src="js/imagesloaded.js"></script>
-  <script type="text/javascript" src="js/isotope.js"></script>
-  <script type="text/javascript" src="js/select2.js"></script>
-  <script type="text/javascript" src="js/splash.js"></script>
-  <script type="text/javascript" src="js/header.js"></script>
-  <script type="text/javascript" src="js/smoothScroll.js"></script>
-  <script type="text/javascript" src="js/ticker.js"></script>
-  <script type="text/javascript" src="js/skrollr.js"></script>
+  <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery-migrate.js"></script>
+  <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery_form.js"></script>
+  <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/bootstrap.js"></script>
+  <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/owl.js"></script>
+  <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/imagesloaded.js"></script>
+  <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/isotope.js"></script>
+  <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/select2.js"></script>
+  <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/splash.js"></script>
+  <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/header.js"></script>
+  <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/smoothScroll.js"></script>
+  <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/ticker.js"></script>
+  <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/skrollr.js"></script>
 </body>
 
 </html>
